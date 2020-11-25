@@ -1,7 +1,7 @@
 from pynput.keyboard import Key, Controller
 import time
 
-message = "OP"
+message = "ENTER YOUR MESSAGE"
 keyboard = Controller()
 
 time.sleep(7)
